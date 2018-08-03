@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Introduction to Data Science in R 
 
-You can use the [editor on GitHub](https://github.com/xcit-lab/teaching/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Course Description
+Data science is about transforming raw data into understanding. It involves activities such as  pre-processing and documenting data, computing summary statistics, plotting meaningful relationships and writing reports. 
+ 
+This course is designed to help you get started in data science using R and give you the tools to further progress autonomously in the future.  
+ 
+This course will offer students access to high-quality online videos and interactive exercises (via datacamp.com). In parallel to these at self-paced lectures at home we will organise hands-on workshops to put your newly acquired knowledge into practice with concrete and relevant use cases. Students will work in small groups to address data-science related challenges in several projects. Groups may also suggest projects on their own. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Learning Outcomes
+By the end of this course, the student should be able to program in R, be familiar with the main steps of a typical data science workflow and be able to find help when encountering new data science related problems.
 
-### Markdown
+## Period
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Summer Semester of 2018
 
-```markdown
-Syntax highlighted code block
+## Special Thanks
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xcit-lab/teaching/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We wish to thank [DataCamp](https://www.datacamp.com/) for supporting this course.
