@@ -18,4 +18,4 @@ Summer Semester of 2018
 
 We wish to thank [DataCamp](https://www.datacamp.com/) for supporting this course.
 
-![DataCamp](https://raw.githubusercontent.com/xcit-lab/teaching/master/DataCamp_Horizontal_RGB.png)
+<a href="https://datacamp.com" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/xcit-lab/teaching/master/DataCamp_Horizontal_RGB.png" alt="DataCamp.com"/></a>
