@@ -2,7 +2,7 @@
 
 A doctoral course at the [University of Luxembourg](https://www.uni.lu), in the [Faculty of Language, Litterature, Humanities, Arts and Education](https://wwwen.uni.lu/flshase).
 
-Taught by Dr. Pedro Cardoso-Leite & Brice Clocher during the Summer Semester of 2018.
+Taught by Dr. Pedro Cardoso-Leite & Brice Clocher during the Summer Semester of 2019.
 
 <a href="https://xcit.org"><img src="https://avatars0.githubusercontent.com/u/29726567?s=100&v=4"/></a>
 
