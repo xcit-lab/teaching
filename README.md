@@ -1,4 +1,10 @@
-# Introduction to Data Science in R 
+# Courses:
+
+- [Introduction to Causal Modeling](https://docs.google.com/document/d/e/2PACX-1vShmouSmu9Dn-EHFLwnijAZZoox83x0foFXoNfb0lp_mYvUxl_b5Wjsw8R-I1JUbWsBH6yJsCESt9wR/pub)
+- [Introduction to Data Science in R](intro-data-science)
+
+
+# [Introduction to Data Science in R](#intro-data-science)
 
 A doctoral course at the [University of Luxembourg](https://www.uni.lu), in the [Faculty of Language, Litterature, Humanities, Arts and Education](https://wwwen.uni.lu/flshase).
 
